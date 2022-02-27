@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cities warning-peece, in the malignants description and conversion: or, The round-head turn'd poet. Where a feast of prose and verse invites curiosity to be nibling.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79810</idno>
+            <idno type="STC">Wing C4336</idno>
+            <idno type="STC">Thomason E246_28</idno>
+            <idno type="STC">ESTC R19050</idno>
+            <idno type="EEBO-CITATION">99860554</idno>
+            <idno type="PROQUEST">99860554</idno>
+            <idno type="VID">158389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158389)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cities warning-peece, in the malignants description and conversion: or, The round-head turn'd poet. Where a feast of prose and verse invites curiosity to be nibling.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Written long since, but printed in the yeere that every knave and foole turn'd Cavaleere. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Prose dialogue with poetry.</note>
+                  <note>Occasioned by John Taylor's "The conversion, confession, contrition, comming to himselfe &amp; advice of a misled, ill-bred, rebellious round-head", 1643.</note>
+                  <note>Annotation on Thomason copy: "February 27. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, John, 1580-1653. --  Conversion, confession, contrition, comming to himselfe, &amp; advice, of a mis-led, ill-bred, rebellious round-head.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158389:1" rendition="simple:additions"/>
+            <p>THE CITIES Warning-Peece, IN The MALIGNANTS deſcription and Converſion: <hi>OR,</hi> The ROUND-HEAD turn'd POET.</p>
+            <p>
+               <hi>Where a Feaſt of Proſe and Verſe invites Curioſity to be nibling.</hi>
+            </p>
+            <lg>
+               <l>Written long ſince, but Printed in the Yeere</l>
+               <l>That every knave and foole turn'd Cavaleere.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="warning">
+            <pb n="2" facs="tcp:158389:2"/>
+            <head>
+               <hi>The Cities Warning-peece:</hi> IN The MALIGNANTS Deſcription and Converſion.</head>
+            <sp>
+               <speaker>Cic.</speaker>
+               <p>GOod morrow Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Gloc.</speaker>
+               <p>Good morrow.</p>
+            </sp>
+            <sp>
+               <speaker>Cic.</speaker>
+               <p>Doe not you know me?</p>
+            </sp>
+            <sp>
+               <speaker>Glo.</speaker>
+               <p>No, What art thou?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>A Raſcall, any thing that may deſerve the name of foole or knave, or theef, or murtherer; I'm juſtly liable to all the ſcornthat truth can caſt upon ignorance and malice, I am a ſlave, abeggar.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>Hold I pray thee, whither wilt thou run?</p>
+            </sp>
+            <sp>
+               <speaker>Cic.</speaker>
+               <p>Why, I'le run my countrey, and glad I may ſcape ſo, for I have neither friends, nor meanes, nor honeſty, nor any thing that is good left, neither within or without me, I am indeed a Ma<g ref="char:EOLhyphen"/>lignant, an enemy to God, my King, my Countrey, nay to my ſelfe, my wife, my children, every body.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>And why art thou ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Cic.</speaker>
+               <p>Faith 'tis a curſe that God hath laid upon me for my ſins, that's all I can ſee in't. Sir I perceive you know not what it is to be a malignant,</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Why 'tis to bee a devill in the ſhape of a man, one that deſpiſeth all manner of goodneſſe, cries downe all that ſpeake well, and hates all that doe well, he cannot abide Parliamens, leſt a reformation ſhould force him to amendment of life, and ſo fave his ſoule, he loves not the Laws becauſe he loves to do that for which the Laws would hang him: He lives every where and takes all ſhapes upon him. I have heard it credibly reported that there is not a pariſh in the City cleare of him, and he hath ſo diſ<g ref="char:EOLhyphen"/>perſed his poyſon in the Suburbs, that but few have eſcaped the
+<pb n="3" facs="tcp:158389:2"/>infection. He is ſometimes a Gallant, ſometimes a Marchant, ſometimes a Mecanich, but always a Raſcall.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>It ſeemes you hate your own condition and repent.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Yes, I doe repent now 'tis too late.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>Too late, that cannot be.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Yes yes, all's gone, I am rob'd, undone, plundered, pilla<g ref="char:EOLhyphen"/>ged, the Cavalliers, the Theeves, the Rogues, the Rebbels have taken all away, and left me nothing but too late repentance.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>Pray open a little the ſtory of your miſeries, that I may know how to pittie you.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Sir your pittie I neither deſerve nor deſire, but if you pleaſe I'le tell you that ſhall make you hate me, I was of late a <hi>Cy<g ref="char:EOLhyphen"/>ceſterian</hi> where I had good meanes, &amp; liv'd in the beſt faſhion, but my honeſt neighbours could never perſwade me to the truth, I loved pleaſure and follie, feared nothing more then to be godly, delighted moſt in the baſeſt company, for none could ever give me ſuch co<g ref="char:cmbAbbrStroke">̄</g>tent, as thoſe that have now undone me, he that would ſwear loudly, &amp; drink ſtoutly I called my aſſociate, and he that talk'd of piety or Prayer my enemy: Thus when I might have liv'd well I neglected it, and now I muſt live ill becauſe I cannot helpe it.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>Then you were in the Town when 'twas loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Yes I was one of them.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>And how came you off?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Why by running away, the truth is, I built ſo much upon mineown malignant merit, that having holpe the Rogues to rob many of my neighbours, at length I was forced to do the like by my ſelfe; I ſtood off a while and pleaded malignancie, gave as good words as I could, that my bad actions might proſper, I told them that I was as bad as they, and ſwore it, rail'd upon the Parliament, curſt all Round-heads and Puritans, rapt out 5. or 6. oaths with as much grace as was poſſible for ſuch agraceleſſe vil<g ref="char:EOLhyphen"/>lain, all would not do, they anſwered that they were acuſtomed to that kinde of couſenage and made me work on, ſo when I had laboured to load all my goods for <hi>Oxford,</hi> I watcht my oppor<g ref="char:EOLhyphen"/>tunity, and never any man parted ſo joyfully from that he loved ſo dearely.</p>
+            </sp>
+            <pb n="4" facs="tcp:158389:3"/>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>It ſeemes then you were faulty in this buſineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>yes, and deſerve to be hang'd for't. Sir ſhall I tell you, had there beene in our Towne of Cice-ſter, halfe ſo many Round-heads as there were Malignants the Town had never beene taken, for they uſed all poſſible meanes they could to defend it, and we that were the major part (out of meere ma<g ref="char:EOLhyphen"/>lice to them) did what we could to betray it: How we were betwitcht I know not, but for my part I finde my ſelfe ſo changed, that I am confident I was either inchanted then, or am inſpired now.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>How meane you by that?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>I ſee with other eyes me thinkes, my affections &amp; thoughts are chang'd, I hate that I lov'd, and I love that I hated, Juſtice and truth appeare faire and amiable, and vice and villanie odi<g ref="char:EOLhyphen"/>ous. In briefe I like ſo wel the name of a Chriſtian, that (for all my loſt wealth) I would not be again an Aegyptian.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>A good change, and now you begin to know your ſelfe, I ſhall begin to know you, be reſolute in this, and your gain exceeds your loſſe.</p>
+               <lg>
+                  <l>Seeke heavenly treaſure, and you need no more,</l>
+                  <l>He that God hates for ſin is onely poore.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>How long have you been a poet?</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>As long as you have beene a convert, you ſee this age is ful of changes, but indeed this whimſie tooke me at the firſt diſ<g ref="char:EOLhyphen"/>covery of the black cloudes that have bred all theſe Tempeſts, when I ſaw diſtraction in the face of the Kingdom, I could no longer contain my ſelfe, but grew mad too, and fel to making verſes.</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Sir ſhall I be beholding to you?</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>For what?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>If your leaſure wil ſerve you, I pray repeate ſome of them.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>That I dare do to you, becauſe I feare not your cenſure, beſides, though they were made two or three yeers ſince, yet be<g ref="char:EOLhyphen"/>cauſe they have ſome affinity w<hi rend="sup">th</hi> the times, you ſhall heare them.</p>
+               <pb n="5" facs="tcp:158389:3"/>
+               <lg>
+                  <l>
+                     <hi>NOw is the net laid, and the tempting bait</hi>
+                  </l>
+                  <l>
+                     <hi>diſperct with Jeſuiticall deceit:</hi>
+                  </l>
+                  <l>
+                     <hi>The Pope (orejoy'd) of victory doth vaunt,</hi>
+                  </l>
+                  <l>
+                     <hi>and the crie goes, Down with the Proteſtant:</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis a brave world, the Souldier domineeres,</hi>
+                  </l>
+                  <l>
+                     <hi>Neighbours and friends, together by the eares</hi>
+                  </l>
+                  <l>
+                     <hi>Are ſet, to rape and murther is the way</hi>
+                  </l>
+                  <l>
+                     <hi>Laid open, goodneſſe doth become a prey</hi>
+                  </l>
+                  <l>
+                     <hi>As well as goods to policie, that dives</hi>
+                  </l>
+                  <l>
+                     <hi>Both into good mens pockets and their lives:</hi>
+                  </l>
+                  <l>
+                     <hi>Ignorance playes the Aſſe, beares all, and ties</hi>
+                  </l>
+                  <l>
+                     <hi>His tongue to ſilence, Reformation dies</hi>
+                  </l>
+                  <l>
+                     <hi>By innovations councel in his youth,</hi>
+                  </l>
+                  <l>
+                     <hi>for feare he ſhould yet ſtrength and maintain truth.</hi>
+                  </l>
+                  <l>
+                     <hi>Why what an age is this? who ſhall we truſt?</hi>
+                  </l>
+                  <l>
+                     <hi>When we to oneanother prove unjuſt?</hi>
+                  </l>
+                  <l>
+                     <hi>Why ſhould we dam the Spaniard and the Turke,</hi>
+                  </l>
+                  <l>
+                     <hi>When homebred malice ſtrives to take the worke</hi>
+                  </l>
+                  <l>
+                     <hi>Out of their hands? nay to exceed them far,</hi>
+                  </l>
+                  <l>
+                     <hi>For private plots are worſe then open Warre.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Now in my minde theſe are admirable good lines, and as fit for the times, as if they had beene made but yeſterday, ano<g ref="char:EOLhyphen"/>ther of theſe good Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>I confeſſe I have another or two, but they are ſomewhat further off, yet ſince they are not altogether impertinent, and that I perceive ſuch toyes are effectual to revive your malancho<g ref="char:EOLhyphen"/>ly and drooping ſpirits, you ſhall have them.</p>
+            </sp>
+            <lg>
+               <head>The Spaniſh Fleete in the Downs.</head>
+               <l>
+                  <hi>BRave Dons or DonZelles, welcome, now we finde</hi>
+               </l>
+               <l>
+                  <hi>That ye are far beyond our merits kinde:</hi>
+               </l>
+               <l>
+                  <hi>Elſe had ye not thus ſpent five moneths and more</hi>
+               </l>
+               <l>
+                  <hi>At Sea, in hope to hugg us on the Shore</hi>
+               </l>
+               <l>
+                  <hi>At laſt, and finde an entertainment meete</hi>
+               </l>
+               <l>
+                  <hi>For the Commanders of ſo brave a Fleete.</hi>
+               </l>
+               <l>
+                  <hi>You know our hearts, we yours, no odds appeares,</hi>
+               </l>
+               <l>
+                  <hi>Since there doth onely run a paire of ſheares</hi>
+               </l>
+               <pb n="6" facs="tcp:158389:4"/>
+               <l>
+                  <hi>Twixt our Religions,</hi> Rome, <hi>and</hi> Spain, <hi>and we</hi>
+               </l>
+               <l>
+                  <hi>Put all together, make but one of three:</hi>
+               </l>
+               <l>
+                  <hi>And ſhall you feare us, or ſhall we feare you?</hi>
+               </l>
+               <l>
+                  <hi>Tuſh,</hi> Spain <hi>is</hi> England, England <hi>is</hi> Spain <hi>now:</hi>
+               </l>
+               <l>
+                  <hi>Our harbours are your own, and the next Spring</hi>
+               </l>
+               <l>
+                  <hi>A freſh ſupply will make us any thing.</hi>
+               </l>
+               <l>Pauls <hi>for your ſakes is almoſt newly built,</hi>
+               </l>
+               <l>
+                  <hi>And 'tis not long ſince</hi> Cheapſide-croſſe <hi>was gilt.</hi>
+               </l>
+               <l>
+                  <hi>Old</hi> Charing <hi>ſhall be now reedified</hi>
+               </l>
+               <l>
+                  <hi>That loſt his glory when old</hi> Chaucer <hi>died:</hi>
+               </l>
+               <l>
+                  <hi>And the brave weſterne buildings, that for ſight</hi>
+               </l>
+               <l>
+                  <hi>Put down their neighbour City</hi> London <hi>quite,</hi>
+               </l>
+               <l>
+                  <hi>Are at your ſervice, Fate ordaind they ſhou'd</hi>
+               </l>
+               <l>
+                  <hi>'Tincreaſe the reverend Romane neighbourhood,</hi>
+               </l>
+               <l>
+                  <hi>For for Saint</hi> Peters <hi>ſake w'ave almoſt all</hi>
+               </l>
+               <l>
+                  <hi>Forſooke our dwellings, neer decai'd Saint</hi> Paul,</l>
+               <l>
+                  <hi>And our Religions too, as you would wiſh,</hi>
+               </l>
+               <l>
+                  <hi>And like your ſelves keepe dayes of fleſh and fiſh,</hi>
+               </l>
+               <l>
+                  <hi>Though we are neither;
+<note place="margin">Witneſſe the Booke of ſports &amp; Sunday no Sab<g ref="char:EOLhyphen"/>both.</note> we are in the way</hi>
+               </l>
+               <l>
+                  <hi>Of giving over quite our Sabbath day:</hi>
+               </l>
+               <l>
+                  <hi>Not knowing (till of late) that 'twas more fit</hi>
+               </l>
+               <l>
+                  <hi>To ſanctifie an Holy day then it;</hi>
+               </l>
+               <l>
+                  <hi>And leſt we ſhould be ſtill incredulous</hi>
+               </l>
+               <l>
+                  <hi>Of Purgatory, they have tricks with us</hi>
+               </l>
+               <l>
+                  <hi>To make us feele it living: but no doubt</hi>
+               </l>
+               <l>
+                  <hi>Your preſence and your prayers wil helpe us out.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>So what doe you thinke of this, are you ſatisfied now?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Sir I am pleaſed but not ſatisfied, of that I like beſt, I al<g ref="char:EOLhyphen"/>wayes deſire moſt, but Sir by your favour me thinkes tis ſtrange that there is nothing in theſe lines touching the confuſion of this Spaniſh Fleete.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>If that will give you ſuch content you ſhall have it by and by, for the truth is, theſe were made (ſuch as they are), at the Fleets firſt comming into the Downs.</p>
+               <p>O how I long to heare of the confuſion of thoſe that plot and endeavour the deſtruction of this poore Kingdom!</p>
+               <pb n="7" facs="tcp:158389:4"/>
+               <lg>
+                  <l>
+                     <hi>Here's no diſsimulation, not a jot:</hi>
+                  </l>
+                  <l>
+                     <hi>We ſhall be Proteſtants ſtill, ſhall we not?</hi>
+                  </l>
+                  <l>
+                     <hi>Yes, yes, be confident the Biſhops doome</hi>
+                  </l>
+                  <l>
+                     <hi>Will ſhift Religion but from roome to Rome.</hi>
+                  </l>
+                  <l>
+                     <hi>The Proteſtant and Papiſt ſhall not vary,</hi>
+                  </l>
+                  <l>
+                     <hi>But love together, goe to Church and marry</hi>
+                  </l>
+                  <l>
+                     <hi>At the high Altar, unto which they bow</hi>
+                  </l>
+                  <l>
+                     <hi>With equall ſhew of Superſtition now.</hi>
+                  </l>
+                  <l>
+                     <hi>The vulgar voice deriv'd from vulgar fears,</hi>
+                  </l>
+                  <l>
+                     <hi>Ready to ſet together by the eares</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe that have any left, affright the ſage</hi>
+                  </l>
+                  <l>
+                     <hi>With rumor of an Innovating Age.</hi>
+                  </l>
+                  <l>
+                     <hi>Old</hi> 88. <hi>(for ſooth) is not for got,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor yet (alas) the failing powder-plot:</hi>
+                  </l>
+                  <l>
+                     <hi>And now to mend the matter, they defcrie</hi>
+                  </l>
+                  <l>
+                     <hi>Twixt</hi> Spain <hi>and</hi> England <hi>other knavery</hi>
+                  </l>
+                  <l>
+                     <hi>Made manifeſt (as they conceive) of late,</hi>
+                  </l>
+                  <l>
+                     <hi>By agreat Fleet that met a grievous Fate.</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Scots <hi>rebell, the</hi> Engliſh <hi>murmur, why?</hi>
+                  </l>
+                  <l>
+                     <hi>It ſeems they ſee and hate Idolatry</hi>
+                  </l>
+                  <l>
+                     <hi>Now crept into the Church. The Papiſts cry</hi>
+                  </l>
+                  <l>
+                     <hi>With voice exalted,</hi> Rome and Victory.</l>
+                  <l>
+                     <hi>Civill diſſention with the noiſe ſhe makes,</hi>
+                  </l>
+                  <l>
+                     <hi>Startles the valiant,</hi> Britaine <hi>now partakes</hi>
+                  </l>
+                  <l>
+                     <hi>The feares of</hi> Germanie, <hi>and juſt Heaven knowes,</hi>
+                  </l>
+                  <l>
+                     <hi>It merits to participate her woes.</hi>
+                  </l>
+                  <l>
+                     <hi>This MaZerunnes rumor, theſe fantaſma's fright</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe that profeſſe the Goſpel, and delight</hi>
+                  </l>
+                  <l>
+                     <hi>To be ſtyl'd Heretiques, but they are vaine</hi>
+                  </l>
+                  <l>
+                     <hi>And idle fancies, we are friends with</hi> Spaine,</l>
+                  <l>
+                     <hi>And</hi> Spaine <hi>with us, there's no confederacie,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor private contract (more then ought to be)</hi>
+                  </l>
+                  <l>
+                     <hi>Betwixt the great ones: or ſuppoſe there ſhou'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Dare we not truſt God if our cauſe be good?</hi>
+                  </l>
+                  <l>
+                     <hi>This huge Fleet came to ſport upon the Maine,</hi>
+                  </l>
+                  <l>
+                     <hi>And for no other purpoſe ſent from Spaine,</hi>
+                  </l>
+                  <pb facs="tcp:158389:5"/>
+                  <l>
+                     <hi>But to become a Royall Offering,</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Neptunes <hi>Altar, the great Ocean's King.</hi>
+                  </l>
+                  <l>
+                     <hi>Their buſineſſe is diſpatcht with all content,</hi>
+                  </l>
+                  <l>
+                     <hi>(Though per adventure better then they meant)</hi>
+                  </l>
+                  <l>
+                     <hi>From what they ſeeme to us, things differ far,</hi>
+                  </l>
+                  <l>
+                     <hi>God makes the end ſhew truly what they are.</hi>
+                  </l>
+               </lg>
+               <p>What thinke you of this?</p>
+            </sp>
+            <sp>
+               <speaker>Ci.</speaker>
+               <p>Good, excellent good.</p>
+            </sp>
+            <sp>
+               <speaker>Gl.</speaker>
+               <p>So I have that I lookt for.</p>
+               <lg>
+                  <l>Poets muſt needs grow rich with their vaſt gaines,</l>
+                  <l>When they can purchaſe praiſe for all their paines.</l>
+               </lg>
+            </sp>
+            <p>But now I have done this at your intreatie, Ile make bold to intreat you to heare a little further: I have yet a few other lines that were written in almoſt as mad a fit as you were when I met you, here they are.</p>
+            <lg>
+               <l>
+                  <hi>Why how now Muſe, confounded by the times,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe manners mar the manner of thy rimes?</hi>
+               </l>
+               <l>
+                  <hi>Is all in a combuſtion, that thy vaine</hi>
+               </l>
+               <l>
+                  <hi>Diſcovers the diſtemper of a braine,</hi>
+               </l>
+               <l>
+                  <hi>So ſutable? why what have we to do.</hi>
+               </l>
+               <l>
+                  <hi>With Common-wealthes, not yet invited to</hi>
+               </l>
+               <l>
+                  <hi>The meaneſt office, fie let eminence</hi>
+               </l>
+               <l>
+                  <hi>Regard the good, that hopes the recompence.</hi>
+               </l>
+               <l>
+                  <hi>What if the Pope prevaile, the State decline?</hi>
+               </l>
+               <l>
+                  <hi>Mines not the fault, make not the miſchife mine.</hi>
+               </l>
+               <l>
+                  <hi>How ſhould the ſouldier thrive if ſweet content</hi>
+               </l>
+               <l>
+                  <hi>Were to be purchas'd by a Parliament?</hi>
+               </l>
+               <l>
+                  <hi>How ſhould long Roabes ſtill flouriſh as they doe,</hi>
+               </l>
+               <l>
+                  <hi>If bad Church Government were lookt into?</hi>
+               </l>
+               <l>
+                  <hi>How ſhould the Lawyer purchaſe, if a bribe</hi>
+               </l>
+               <l>
+                  <hi>Were held infectious in the thrifty tribe?</hi>
+               </l>
+               <l>
+                  <hi>Come, Come, great men have priviledge to draw</hi>
+               </l>
+               <l>
+                  <hi>From their own wills decrees above the law.</hi>
+               </l>
+               <l>
+                  <hi>The poor muſt ſuffer, and not dare to grudge</hi>
+               </l>
+               <l>
+                  <hi>At the falſe ſentence of a wicked Iudge.</hi>
+               </l>
+               <l>
+                  <hi>Religion, Iuſtice, Truth, all out of uſe,</hi>
+               </l>
+               <l>
+                  <hi>May now go whiſtle, ther's no ſuch abuſe</hi>
+               </l>
+               <l>
+                  <hi>Among ſo great, ſo many, as to know</hi>
+               </l>
+               <l>
+                  <hi>From whence theſe miſer able miſcheifes grow,</hi>
+               </l>
+               <l>
+                  <hi>Still lives the cauſe, and ſtill the griefe ſurvives,</hi>
+               </l>
+               <l>
+                  <hi>Malice more potent growes, though knowledge thrives;</hi>
+               </l>
+               <l>
+                  <hi>Indeavors proſper not, the hate to ſin</hi>
+               </l>
+               <l>
+                  <hi>Is not of force ſufficient to bring in</hi>
+               </l>
+               <l>
+                  <hi>Neglected piety, vice i'the head</hi>
+               </l>
+               <l>
+                  <hi>Keepes vertue under foot, as good as dead:</hi>
+               </l>
+               <l>
+                  <hi>Ignorance onely hath the fate to be</hi>
+               </l>
+               <l>
+                  <hi>From griefe and feare, but not from danger free.</hi>
+               </l>
+            </lg>
+            <p>I am ſory I have nothing but thanks to give you for ſo large an expreſſion of love to me, but if my ſervice may in any thing be acceptable I ſhall for this free favor be ever willing to be commanded by you.</p>
+            <lg>
+               <l>Be your owne frind hereafter, underſtand</l>
+               <l>The Truth, and fight fort, this is my command.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
